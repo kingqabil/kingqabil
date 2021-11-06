@@ -10,7 +10,7 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/kingqabil?label=Follow%20Me&style=social)](https://github.com/kingqabil)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-SadiQ%20HabiL-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sadiq-habi/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-SadiQ%20HabiL-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sadiq-habil/)
 [![Mail](https://img.shields.io/badge/Gmail-kingqabil@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=white)](mailto:kingqabil@gmail.com)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am SadiQ HabiL</strong></samp></h2>

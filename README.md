@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-SadiQ%20HabiL-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sadiq-habi/)
-[![Mail](https://img.shields.io/badge/Gmail-kingqabil@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kingqabil@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-kingqabil@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=white)](mailto:kingqabil@gmail.com)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am SadiQ HabiL</strong></samp></h2>
 <h3 align='center'><strong><a href="https://kingqabil.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>

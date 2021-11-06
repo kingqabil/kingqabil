@@ -76,8 +76,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kingqabil&repo=my_resume)](https://github.com/kingqabil/my_resume) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingqabil&theme=radical)
 </br>
 <p style="display: flex; justify-contect: space-between;">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingqabil&theme=radical)
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="280px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>

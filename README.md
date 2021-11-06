@@ -10,8 +10,8 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-SadiQ%20HabiL-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sadiq-habi/)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:kingqabil@gmail.com)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am SadiQ HabiL</strong></samp></h2>
 <h3 align='center'><strong><a href="https://kingqabil.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
@@ -79,10 +79,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <!-- ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kingqabil&repo=my_resume)](https://github.com/kingqabil/my_resume) -->
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=kingqabil" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>

@@ -12,7 +12,7 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/Gmail-kingqabil@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=white)](mailto:kingqabil@gmail.com)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am SadiQ HabiL</strong></samp></h2>
-<h3 align='center'><strong><a href="https://kingqabil.github.io/My-Portfolio/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://cheerful-swan-e8d4a2.netlify.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full-stack Web Developer career path, and loves working with cutting edge tools and technologies.</p>
